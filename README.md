@@ -2,7 +2,7 @@
 
 Reverse engineer the starter code provided and create a tutorial for the code.
 
-In the `Develop` folder, there is starter code for a project. Begin inspecting the code to get an understanding of each file's responsibility. Then, in a Google Doc, write a tutorial explaining *every* file and its purpose. If one file is dependant on other files, be sure to let the user know.
+ The `Develop` folder is tied to starter code for a project. By inspecting the code to get an understanding of each file's responsibility. Then, in a Google Doc, write a tutorial explaining *every* file and its purpose. If one file is dependant on other files, be sure to let the user know.
 
 At the end of the tutorial, add instructions for how you could now add changes to this project.
 
@@ -43,3 +43,5 @@ Github Repository: https://github.com/karur0su/Reverse-Engineering-Authenticatio
 Github Pages https://karur0su.github.io/Reverse-Engineering-Authentication/
 
 Heroku App: https://evening-badlands-59071.herokuapp.com/
+
+Google Doc: https://docs.google.com/document/d/1K8SDyorowAMoP7JMFvEBfIRSrkZS8xjv7oUDuh76qxQ/edit
