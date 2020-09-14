@@ -1,7 +1,10 @@
-//Middleware for restricting routes a user not allowed to visit if user not logged in.
+// This is middleware for restricting routes a user is not allowed to visit if not logged in
+module.exports = function(req, res, next) {
+  // If the user is logged in, continue with the request to the restricted route
+  if (req.user) {
+    return next();
+  }
 
-  
-// If user is logged in, continue with the request to the restricted route.
- 
-
-  // If user NOT logged in, redirect to login page.
+  // If the user isn't logged in, redirect them to the login page
+  return res.redirect("/");
+};
