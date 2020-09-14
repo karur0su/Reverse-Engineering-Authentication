@@ -38,8 +38,8 @@ You are required to submit the following:
 _Note: Don't forget to change the sharing settings on your Google Doc._
 
 - - -
-https://github.com/karur0su/Reverse-Engineering-Authentication
+Github Repository: https://github.com/karur0su/Reverse-Engineering-Authentication
 
-https://karur0su.github.io/Reverse-Engineering-Authentication/
+Github Pages https://karur0su.github.io/Reverse-Engineering-Authentication/
 
-https://evening-badlands-59071.herokuapp.com/
+Heroku App: https://evening-badlands-59071.herokuapp.com/
