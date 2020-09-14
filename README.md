@@ -38,4 +38,8 @@ You are required to submit the following:
 _Note: Don't forget to change the sharing settings on your Google Doc._
 
 - - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+https://github.com/karur0su/Reverse-Engineering-Authentication
+
+https://karur0su.github.io/Reverse-Engineering-Authentication/
+
+https://evening-badlands-59071.herokuapp.com/
